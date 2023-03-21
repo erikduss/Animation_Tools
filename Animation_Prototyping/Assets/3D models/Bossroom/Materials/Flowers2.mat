@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Machines
+  m_Name: Flowers2
   m_Shader: {fileID: 4800000, guid: 128c5f1edaefa4c4fb3f9f7a4615edb2, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
@@ -70,30 +70,30 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Lumin: 0.14
-    - _MaxLight: 1
+    - _Lumin: 0.26
+    - _MaxLight: 0.87
     - _Metallic: 0
-    - _MinLight: 0.329
+    - _MinLight: 0.14
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _Offset: 0
-    - _OtlWidth: 4.81
+    - _Offset: -0.24
+    - _OtlWidth: 0.29
     - _Parallax: 0.02
     - _Segmented: 1
-    - _ShnIntense: 1
+    - _ShnIntense: 0.52
     - _ShnOverlap: 0
-    - _ShnRange: 0.134
-    - _ShnSmooth: 0.08
+    - _ShnRange: 0.07
+    - _ShnSmooth: 0.44
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Steps: 6.1
+    - _Steps: 5.5
     - _StpSmooth: 0
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.2584905, g: 1, b: 0.2963226, a: 1}
+    - _Color: {r: 0.4812748, g: 0.5754717, b: 0.25733355, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _OtlColor: {r: 0, g: 0, b: 0, a: 1}
-    - _ShnColor: {r: 1, g: 0.6452183, b: 0, a: 1}
+    - _ShnColor: {r: 0, g: 0.88738203, b: 1, a: 1}
   m_BuildTextureStacks: []
