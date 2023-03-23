@@ -25,7 +25,7 @@ MonoBehaviour:
     defaultState: 1
   tonemapper:
     overrideState: 1
-    value: 0
+    value: 2
   toneCurveToeStrength:
     overrideState: 1
     value: 0
@@ -53,10 +53,10 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: 8
+    value: 2
   tint:
     overrideState: 1
-    value: 15
+    value: -0
   colorFilter:
     overrideState: 1
     value: {r: 1, g: 1, b: 1, a: 1}
@@ -77,13 +77,13 @@ MonoBehaviour:
     value: 13
   mixerRedOutRedIn:
     overrideState: 1
-    value: 77
+    value: 92
   mixerRedOutGreenIn:
     overrideState: 1
     value: 30
   mixerRedOutBlueIn:
     overrideState: 1
-    value: -3
+    value: 3
   mixerGreenOutRedIn:
     overrideState: 1
     value: 0
@@ -107,7 +107,7 @@ MonoBehaviour:
     value: {x: 0.80274, y: 0.85256433, z: 1, w: 0}
   gamma:
     overrideState: 1
-    value: {x: 1, y: 0.89312756, z: 0.717196, w: 0}
+    value: {x: 1, y: 0.90439856, z: 0.6258732, w: 0}
   gain:
     overrideState: 0
     value: {x: 0.89814043, y: 0.94664294, z: 1, w: 0}
@@ -1350,7 +1350,7 @@ MonoBehaviour:
     value: 0
   color:
     overrideState: 1
-    value: {r: 0, g: 0.034917906, b: 0.3584906, a: 1}
+    value: {r: 0, g: 0.056914885, b: 0.6039216, a: 1}
   center:
     overrideState: 0
     value: {x: 0.5, y: 0.5}
@@ -1441,10 +1441,10 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1
+    value: 1.15
   color:
     overrideState: 1
-    value: {r: 0.06123174, g: 0.07193874, b: 0.18867922, a: 1}
+    value: {r: 0.06856532, g: 0.33962262, b: 0.072610974, a: 1}
   ambientOnly:
     overrideState: 1
     value: 0
@@ -1459,7 +1459,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 2.33
+    value: 2.23
   directLightingStrength:
     overrideState: 1
     value: 0
@@ -1490,7 +1490,7 @@ MonoBehaviour:
     value: 1.8
   aperture:
     overrideState: 1
-    value: 9
+    value: 8.5
   focalLength:
     overrideState: 1
     value: 48
